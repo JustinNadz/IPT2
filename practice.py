@@ -1,5 +1,5 @@
-a = "nadela"
-b = "donnel"
+a = "DONNEL L. SIMBAJON"
+b = "JUSTIN NADELA"
 
 c = input("Enter choice (a/b): ")
 
